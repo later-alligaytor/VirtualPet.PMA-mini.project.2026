@@ -1,3 +1,3 @@
 java files located in workspace\Pet.miniproject\src\dk\aau\med2\aag\prog\miniver2
 
-In Runnable-//- folder, please keep the runnable file "DesktopPets" and the "saves" folder in the same folder.
+Please keep the runnable file "DesktopPets" and the "saves" folder in the same folder/location.
